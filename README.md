@@ -4,7 +4,8 @@
 * 📍 Recife - PE, Brasil
 
 ##  🙋‍♂️ Sobre mim
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Tenho interesse no Back-End dos sistemas porém tenho conhecimento sobre o Front-End também, minhas principais linguagens são Python e C#. Estou me dedicando na área de automação, machine learning e desenvolvimento web
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau. Tenho interesse no Back-End dos sistemas porém tenho conhecimento sobre o Front-End também, minhas principais linguagens são Python e C#. Estou me dedicando na área de bancos de dados e desenvolvimento web
+
 
 ## 🎯 Skills
 <div>
