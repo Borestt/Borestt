@@ -1,6 +1,6 @@
 # 👻 Bem vindo(a)!
 
-* 👨‍💻 Back-End Developer
+* 👨‍💻 Full Stack Developer
 * 📍 Recife - PE, Brasil
 
 ##  🙋‍♂️ Sobre mim
